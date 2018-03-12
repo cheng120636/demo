@@ -5,6 +5,7 @@ package com.bdqn.test;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("000");
+        int a = 4;
+        System.out.println(a);
     }
 }
